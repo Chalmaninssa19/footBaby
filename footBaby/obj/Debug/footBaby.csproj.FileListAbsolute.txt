@@ -1,0 +1,11 @@
+C:\Users\Chalman\Source\Repos\footBaby\footBaby\bin\Debug\footBaby.exe.config
+C:\Users\Chalman\Source\Repos\footBaby\footBaby\bin\Debug\footBaby.exe
+C:\Users\Chalman\Source\Repos\footBaby\footBaby\bin\Debug\footBaby.pdb
+C:\Users\Chalman\Source\Repos\footBaby\footBaby\obj\Debug\footBaby.csproj.AssemblyReference.cache
+C:\Users\Chalman\Source\Repos\footBaby\footBaby\obj\Debug\footBaby.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chalman\Source\Repos\footBaby\footBaby\obj\Debug\footBaby.BabyFoot.resources
+C:\Users\Chalman\Source\Repos\footBaby\footBaby\obj\Debug\footBaby.Properties.Resources.resources
+C:\Users\Chalman\Source\Repos\footBaby\footBaby\obj\Debug\footBaby.csproj.GenerateResource.cache
+C:\Users\Chalman\Source\Repos\footBaby\footBaby\obj\Debug\footBaby.csproj.CoreCompileInputs.cache
+C:\Users\Chalman\Source\Repos\footBaby\footBaby\obj\Debug\footBaby.exe
+C:\Users\Chalman\Source\Repos\footBaby\footBaby\obj\Debug\footBaby.pdb
